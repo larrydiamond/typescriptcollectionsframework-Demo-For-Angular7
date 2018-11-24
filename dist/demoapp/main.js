@@ -616,7 +616,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Volumes/USBRAID/git/sample/demoapp/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /Volumes/USBRAID/git/typescriptcollectionsframework-Demo-For-Angular7/src/main.ts */"./src/main.ts");
 
 
 /***/ })
