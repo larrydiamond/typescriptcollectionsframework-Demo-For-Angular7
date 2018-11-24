@@ -45,7 +45,6 @@ export class AppComponent {
   public slMapData:SkipListMap<string, string> = new SkipListMap<string, string>(Collections.getStringComparator());
 
   constructor () {
-
     this.alData.add ("Cat");
     this.alData.add ("Squirrel");
     this.alData.add ("Dog");
