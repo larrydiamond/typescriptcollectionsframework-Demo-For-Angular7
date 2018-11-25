@@ -4,6 +4,8 @@
 
 <img src="https://larrydiamond.github.io/typescriptcollectionsframework/tsf-blue.png" width="100" height="100">
 
-This is a demo application for the TypeScript Collection Framework
+This is a tutorial and demo application for the TypeScript Collection Framework
 
 https://github.com/larrydiamond/typescriptcollectionsframework
+
+Start with ArrayList, it's a good warmup for everything else.
