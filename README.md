@@ -7,5 +7,3 @@
 This is a tutorial and demo application for the TypeScript Collection Framework
 
 https://github.com/larrydiamond/typescriptcollectionsframework
-
-Start with ArrayList, it's a good warmup for everything else.
