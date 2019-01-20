@@ -7,7 +7,7 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-    "site": "ng build --base-href '/typescriptcollectionsframework-Demo-For-Angular7/dist/demoapp/'",
+    "site": "ng build --base-href /typescriptcollectionsframework-Demo-For-Angular7/dist/demoapp/",
     "tslint": "tslint -c tslint.json */*.ts",
     "e2e": "ng e2e"
   },
